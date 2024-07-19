@@ -1,4 +1,5 @@
 # microplastic_count
+[![DOI](https://zenodo.org/badge/830761533.svg)](https://zenodo.org/doi/10.5281/zenodo.12775584)
 
 Google Colab and Jupyter notebook to process images with red-fluorescent microplastics.
 
