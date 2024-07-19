@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Palomino Castillo"
+  given-names: "Vanessa Dina"
+  orcid: "https://orcid.org/0009-0002-0520-7919"
+- family-names: "Santos"
+  given-names: "Ezequiel França dos"
+  orcid: "https://orcid.org/0000-0001-9321-8444"
+title: "Google Colab and Jupyter to process images with red-fluorescent microplastics."
+version: 1.0.0
+doi: 
+date-released: 2024-07-19
+url: "https://github.com/van-castillo/microplastic_count"
