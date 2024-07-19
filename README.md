@@ -58,3 +58,18 @@ Google Colab and Jupyter notebook to process images with red-fluorescent micropl
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Cite
+APA
+> Castillo, V. D. P., & Santos, E. F. D. (2024). Google Colab and Jupyter to process images with red-fluorescent microplastics. (Version 1.0.0) [Computer software]. https://doi.org/https://zenodo.org/doi/10.5281/zenodo.12775584
+
+BibTeX
+```tex
+@software{Castillo_Google_Colab_and_2024,
+author = {Castillo, Vanessa Dina Palomino and Santos, Ezequiel França dos},
+doi = {https://zenodo.org/doi/10.5281/zenodo.12775584},
+month = jul,
+title = {{Google Colab and Jupyter to process images with red-fluorescent microplastics.}},
+url = {https://github.com/van-castillo/microplastic_count},
+version = {1.0.0},
+year = {2024}
+}
+```
