@@ -9,6 +9,6 @@ authors:
   orcid: "https://orcid.org/0000-0001-9321-8444"
 title: "Google Colab and Jupyter to process images with red-fluorescent microplastics."
 version: 1.0.0
-doi: 
+doi: https://zenodo.org/doi/10.5281/zenodo.12775584
 date-released: 2024-07-19
 url: "https://github.com/van-castillo/microplastic_count"
